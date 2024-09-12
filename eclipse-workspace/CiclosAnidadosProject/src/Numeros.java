@@ -5,9 +5,9 @@ public class Numeros{
 		// TODO Auto-generated method stub
      System.out.println("======Numeros=====");
 	
-     for (int i = 1; i <= 3; i++) {
-         for (int j = 1; j <= 3; j++) {
-             System.out.println(i + " " + j);
+     for (int  num= 1; num <= 3; num++) {
+         for (int row = 1; row <= 3; row++) {
+             System.out.println(num + " " + row);
          }
      }
  }
